@@ -16,7 +16,7 @@ A simple and responsive contact management application built with **React**. Thi
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **React** (with Hooks)
 - **React Router DOM** for navigation
